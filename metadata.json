@@ -5,13 +5,13 @@
         "version": "1.0.0",
         "license": "MIT",
         "persistent_uris": {
-            "github_raw": "https://raw.githubusercontent.com/yourusername/tunisian-legal-texts-json/main/",
-            "zenodo_doi": "https://doi.org/10.xxxx/your-dataset"
+            "github_raw": "https://raw.githubusercontent.com/Oussema-Aouini/Tunsian_Leagal_Chatbot/main/",
+            "zenodo_doi": "https://doi.org/10.5281/zenodo.14911050"
         },
         "contributors": [
             {
-                "name": "Your Name",
-                "email": "your.email@example.com",
+                "name": "Oussema",
+                "email": "oussema.aouini2003@gmail.com",
                 "role": "Maintainer"
             }
         ],
