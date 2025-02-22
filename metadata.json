@@ -1,0 +1,42 @@
+{
+    "repository": {
+        "name": "tunisian-legal-texts-json",
+        "description": "Structured JSON versions of the Tunisian Constitution and Personal Status Code.",
+        "version": "1.0.0",
+        "license": "MIT",
+        "persistent_uris": {
+            "github_raw": "https://raw.githubusercontent.com/yourusername/tunisian-legal-texts-json/main/",
+            "zenodo_doi": "https://doi.org/10.xxxx/your-dataset"
+        },
+        "contributors": [
+            {
+                "name": "Your Name",
+                "email": "your.email@example.com",
+                "role": "Maintainer"
+            }
+        ],
+        "source": {
+            "tunisian_constitution": {
+                "title": "Tunisian Constitution",
+                "language": "Arabic",
+                "year": 2022,
+                "source_url": "https://example.com/tunisian-constitution",
+                "persistent_uri": "https://doi.org/10.xxxx/tunisian-constitution",
+                "files": [
+                    "constitution_2022_ar.json"
+                ]
+            },
+            "personal_status_code": {
+                "title": "Tunisian Personal Status Code",
+                "language": "Arabic",
+                "year": 1956,
+                "source_url": "https://example.com/tunisian-personal-status-code",
+                "persistent_uri": "https://doi.org/10.xxxx/personal-status-code",
+                "files": [
+                    "personal_status_code_ar.json"
+                ]
+            }
+        },
+        "last_updated": "2024-02-05"
+    }
+}
