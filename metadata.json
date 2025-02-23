@@ -20,8 +20,8 @@
                 "title": "Tunisian Constitution",
                 "language": "Arabic",
                 "year": 2022,
-                "source_url": "https://example.com/tunisian-constitution",
-                "persistent_uri": "https://doi.org/10.xxxx/tunisian-constitution",
+                "source_url": "https://legislation-securite.tn/fr/node/104158"
+                "persistent_uri": "https://doi.org/10.5281/zenodo.14911050/tunisian-constitutoion",
                 "files": [
                     "constitution_2022_ar.json"
                 ]
@@ -30,8 +30,8 @@
                 "title": "Tunisian Personal Status Code",
                 "language": "Arabic",
                 "year": 1956,
-                "source_url": "https://example.com/tunisian-personal-status-code",
-                "persistent_uri": "https://doi.org/10.xxxx/personal-status-code",
+                "source_url": "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/73350/74792/F1992929024/TUN-73350.pdf"
+                "persistent_uri": "https://doi.org/10.5281/zenodo.14911050/personal-status-code",
                 "files": [
                     "personal_status_code_ar.json"
                 ]
