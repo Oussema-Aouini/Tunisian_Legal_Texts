@@ -2,7 +2,7 @@
 **Structured and machine-readable versions of the Tunisian Constitution (2022) and the Tunisian Personal Status Code (1956) in both Arabic and English.**  
 
 ![GitHub Repo](https://img.shields.io/github/repo-size/Oussema-Aouini/Tunisian_Legal_Chatbot)  
-![License](https://img.shields.io/github/license/Oussema-Aouini/tunisian-legal-texts-json)  
+![License](https://img.shields.io/github/license/Oussema-Aouini/Tunisian_Legal_Chatbot)  
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2024--02--05-brightgreen)  
 
 ---
