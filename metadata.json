@@ -18,20 +18,24 @@
         "source": {
             "tunisian_constitution": {
                 "title": "Tunisian Constitution",
-                "language": "Arabic",
+                "languages": ["Arabic", "English"],
                 "year": 2022,
                 "source_url": "https://legislation-securite.tn/fr/node/104158"
-                "persistent_uri": "https://doi.org/10.5281/zenodo.14911050/tunisian-constitutoion",
+                "persistent_uri_ar": "https://doi.org/10.5281/zenodo.14911050",
+                "persistent_uri_en": "https://doi.org/10.5281/zenodo.14911050",
+
                 "files": [
                     "constitution_2022_ar.json"
                 ]
             },
             "personal_status_code": {
                 "title": "Tunisian Personal Status Code",
-                "language": "Arabic",
+                "languages": ["Arabic", "English"],
                 "year": 1956,
                 "source_url": "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/73350/74792/F1992929024/TUN-73350.pdf"
-                "persistent_uri": "https://doi.org/10.5281/zenodo.14911050/personal-status-code",
+                "persistent_uri_ar": "https://doi.org/10.5281/zenodo.14911050",
+                "persistent_uri_en": "https://doi.org/10.5281/zenodo.14911050",
+
                 "files": [
                     "personal_status_code_ar.json"
                 ]
