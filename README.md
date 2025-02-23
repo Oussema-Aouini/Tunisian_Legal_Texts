@@ -33,7 +33,7 @@ The data is **formatted in JSON** to facilitate accessibility for:
 - 📜 **GitHub Raw Files:**  
   - [Tunisian Constitution (2022) - Arabic]([https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/main/constitution_2022_ar.json](https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/refs/heads/main/Tunisia_constitution_ara.json))  
   - [Tunisian Constitution (2022) - English]([https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/main/constitution_en.json](https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/refs/heads/main/constitution_eng.json))  
-  - [Personal Status Code (1956) - Arabic]([https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/main/personal_status_code_ar.json]) 
+  - [Personal Status Code (1956) - Arabic](https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/main/personal_status_code_ar.json) 
   - [Personal Status Code (1956) - English](https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Chatbot/main/personal_status_code_en.json)  
 
 - 📖 **Zenodo DOI:**  
