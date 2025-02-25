@@ -8,12 +8,12 @@
 ---
 
 ## 📌 **About the Project**  
-This repository provides **structured JSON files** for two essential Tunisian legal texts:  
+This repository provides **structured JSON files** for two essential Tunisian legal texts:
 
 1. **Tunisian Constitution (2022)**
 2. **Tunisian Personal Status Code (1956)**  
 
-The data is **formatted in JSON** to facilitate accessibility for:  
+The data is **formatted in JSON** to facilitate accessibility for:
 ✅ **Legal research & analysis**  
 ✅ **AI & NLP applications** (e.g., legal chatbots)  
 ✅ **Open data initiatives & transparency**  
