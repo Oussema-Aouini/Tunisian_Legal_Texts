@@ -5,7 +5,7 @@
         "version": "1.0.0",
         "license": "MIT",
         "persistent_uris": {
-            "github_raw": "https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Texts/main/",
+            "github_raw": "https://raw.githubusercontent.com/Oussema-Aouini/Tunisian_Legal_Texts/main",
             "zenodo_doi": "https://doi.org/10.5281/zenodo.14911050"
         },
         "contributors": [
