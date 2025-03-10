@@ -1,6 +1,6 @@
 {
     "repository": {
-        "name": "tunisian-legal-texts-json",
+        "name": "Tunisian_Legal_Texts",
         "description": "Structured JSON versions of the Tunisian Constitution and Personal Status Code.",
         "version": "1.0.0",
         "license": "MIT",
@@ -16,7 +16,9 @@
             },
             {
                 "name": "Sondes",
-                "email": "cheriki.sondes@gmail.com"
+                "email": "cheriki.sondes@gmail.com",
+                "role": "Contributer"
+
             }
         ],
         "source": {
