@@ -1149,13 +1149,14 @@
             "section_title": "BOOK TWELVE: ON DONATIONS",
             "chapters": [
                 {
-                    "chapter_title": "CHAPTER I: General Provisions",
+                    "chapter_title": "CHAPTER I: General Dispositions",
                     "articles": [
                         {
                             "article_number": "200",
                             "text": "A donation is a contract by which a person transfers to another person, gratuitously, the ownership of an asset. The donor may, without losing their liberal intention, impose upon the donee the obligation to perform a specific action, in which case the act is referred to as a donation with conditions.",
                             "last_updated": "August 13, 1956"
                         }
+                        
                     ]
                 },
                 {
@@ -1165,7 +1166,32 @@
                             "article_number": "201",
                             "text": "The donation is perfected by the delivery of the item to the donee. The donation is void if the donor or donee dies before delivery, even if the donee has done everything possible to take possession of the donated item.The provisions related to the delivery of the sold item apply to the delivery of the donated item, as long as they are not contrary to the nature and specific rules of donations.If the delivery of the donated item has not occurred, the donee has the right to demand it.(Amended by Law No. 92-48 of May 4, 1992). For a donation to be valid, it must be formalized by an authentic act. The real rights resulting from it for registered immovable property are only constituted through their inscription in the land registry. However, if the donation pertains to movable goods, simple delivery suffices, subject to the special rules for registered movable property.A donation of future property is void.A donation made by a person during their final illness is deemed a bequest.",
                             "last_updated": "May 4, 1992"
-                        }
+                        },
+                        {
+                            "article_number": "202",
+                            "text": "The provisions related to the delivery of the sold item apply to the delivery of the donated item, insofar as they are not contrary to the nature and specific rules of donations.",
+                            "last_updated": "August 13, 1956"
+                          },
+                          {
+                            "article_number": "203",
+                            "text": "If the delivery of the donated item has not occurred, the donee has the right to demand it.",
+                            "last_updated": "August 13, 1956"
+                          },
+                          {
+                            "article_number": "204",
+                            "text": " For a donation to be valid, it must be formalized by an authentic act. The real rights resulting from it for registered immovable property are only constituted through their inscription in the land registry. However, if the donation pertains to movable goods, simple delivery suffices, subject to the special rules for registered movable property.",
+                            "last_updated": "May 4, 1992"
+                          },
+                          {
+                            "article_number": "205",
+                            "text": "A donation of future property is void.",
+                            "last_updated": "August 13, 1956"
+                          },
+                          {
+                            "article_number": "206",
+                            "text": "A donation made by a person during their final illness is deemed a bequest.",
+                            "last_updated": "August 13, 1956"
+                          }
                     ]
                 },
                 {
@@ -1175,7 +1201,12 @@
                             "article_number": "207",
                             "text": "The donor only guarantees eviction if they intentionally concealed the cause of eviction or if the donation was made with conditions. In the first case, the donee will be granted fair compensation for the harm suffered. In the second case, the donor is only liable up to the value of the conditions fulfilled by the donee, unless otherwise agreed. In case of eviction, the donee is subrogated in the rights and actions of the donor.The donor is not liable for defects in the donated item. However, if the donor intentionally concealed a defect or guaranteed its absence, they must compensate the donee for the damage caused. They will also be liable for damages if the donation was made with conditions, provided the damages do not exceed the value of the conditions fulfilled by the donee.",
                             "last_updated": "August 13, 1956"
-                        }
+                        },
+                        {
+                            "article_number": "208",
+                            "text": "The donor is not liable for defects in the donated item. However, if the donor intentionally concealed a defect or guaranteed its absence, they must compensate the donee for the damage caused. They will also be liable for damages if the donation was made with conditions, provided the damages do not exceed the value of the conditions fulfilled by the donee.",
+                            "last_updated": "August 13, 1956"
+                          }
                     ]
                 },
                 {
@@ -1186,6 +1217,12 @@
                             "text": "If the donor reserves the right to revoke their donation, the donation remains valid, and the reservation is void.Subject to the rights acquired by third parties and unless there is an obstacle as provided in Article 212, the donor may request the revocation of the donation for any of the following reasons: 1) in case of serious ingratitude by the donee towards the donor, 2) if the donor is reduced to a state where they are unable to support themselves according to their social condition or find themselves unable to meet the alimentary obligations they are legally bound to, 3) in the case of the donor having a child born after the donation, still alive at the time of revocation.",
                             "last_updated": "August 13, 1956"
                         },
+                        {
+                            "article_number": "210",
+                            "text": "Subject to the rights acquired by third parties and unless there is an obstacle as provided in Article 212, the donor may request the revocation of the donation for any of the following reasons: 1) in case of serious ingratitude by the donee towards the donor, 2) if the donor is reduced to a state where they are unable to support themselves according to their social condition or find themselves unable to meet the alimentary obligations they are legally bound to, 3) in the case of the donor having a child born after the donation, still alive at the time of revocation.",
+                            "last_updated": "August 13, 1956"
+                        },
+                  
                         {
                             "article_number": "211",
                             "text": "The action for revocation due to ingratitude is prescribed one year from the day the ingratitude occurred or from the day it could have been known to the donor. It is prescribed, in all cases, by ten years from the day the ingratitude occurred. This revocation cannot be requested by the donors heirs unless the action was initiated by the donor or they passed away within one year after the act of ingratitude.",
