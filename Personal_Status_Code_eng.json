@@ -646,7 +646,14 @@
                             "article_number": "111",
                             "text": " The grandmother inherits one-sixth, whether maternal or paternal, whether alone or alongside other grandmothers, provided they are of the same degree or the paternal grandmother is of a closer degree, such as the mother of the father or the mother of the mother. In such cases, the maternal grandmother inherits the full one-sixth. The paternal grandmother does not inherit if the father is alive. Neither the maternal nor the paternal grandmother inherits if the mother is alive. Article 112. In the event that the fixed shares of the reserved heirs exceed the total estate, the estate shall be divided among them in proportion to their respective shares.",
                             "last_updated": "August 13, 1956"
-                        }
+                            
+                        },
+                        {
+                            "article_number": "112",
+                            "text": "If the shares of the reserved heirs exceed the estate, it shall be divided among them in proportion to their respective shares.",
+                            "last_updated": "August 13, 1956"
+                          }
+                          
                     ]
                 },
                 {
@@ -813,7 +820,7 @@
                             "last_updated": "August 13, 1956"
                         },
                         {
-                            "article_number": "143",
+                            "article_number": "143a",
                             "text": "Article 143 bis.(Added by Law No. 59-77 of June 19, 1959) - In the absence of agnate heirs (Aceb), and whenever the reserved portion (Fardh) remains, the rest returns to the latter and is distributed among them proportionally to their shares. The daughter(s) or granddaughter(s) from the paternal lineage benefit from the return of the surplus, even in the presence of the heirs (Aceb) by themselves, from the category of brothers, paternal uncles, and their descendants, as well as the Treasury.",
                             "last_updated": "June 19, 1959"
                         }
@@ -1119,7 +1126,22 @@
                             "article_number": "193",
                             "text": "The bequest may be renounced by the legatee or their representative.The renunciation of the bequest must occur after the testator's death and no later than two months after the notification of the will to the legatee. The silence of the legatee during this period constitutes acceptance. If the legatee dies within this period, their heirs exercise the rights of their predecessor from the notification of the will made to them.A partially accepted bequest is executed for that part and becomes void for the remainder. In the case of multiple legatees, if some accept the bequest and others renounce it, the bequest is executed regarding the acceptances and is considered void concerning the others.Acceptance and renunciation are not valid unless the heirs consent.",
                             "last_updated": "August 13, 1956"
-                        }
+                        },
+                        {
+                            "article_number": "194",
+                            "text": "The renunciation of the bequest must occur after the testator's death and no later than two months after the notification of the will to the legatee. The silence of the legatee during this period constitutes acceptance. If the legatee dies within this period, their heirs exercise the rights of their predecessor from the notification of the will made to them.",
+                            "last_updated": "August 13, 1956"
+                          },
+                          {
+                            "article_number": "195",
+                            "text": "A partially accepted bequest is executed for that part and becomes void for the remainder. In the case of multiple legatees, if some accept the bequest and others renounce it, the bequest is executed regarding the acceptances and is considered void concerning the others.",
+                            "last_updated": "August 13, 1956"
+                          },
+                          {
+                            "article_number": "196",
+                            "text": "Acceptance and renunciation are not valid unless the heirs consent.",
+                            "last_updated": "August 13, 1956"
+                          }
                     ]
                 },
                 {
